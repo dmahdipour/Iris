@@ -23,5 +23,5 @@ pip install numpy
 pip install matplotlib
 ```
 
-# Plot Image
+# Plot Losses rate in 50 epochs
 ![My_Image](IMG/losses.jpg)
